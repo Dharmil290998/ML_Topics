@@ -1,0 +1,42 @@
+[
+  {
+    "inventory_id": 8001,
+    "product_id": 201,
+    "store_id": 301,
+    "stock_quantity": 50,
+    "last_restock_date": "2025-01-08",
+    "modified_date": "2025-01-08T09:00:00"
+  },
+  {
+    "inventory_id": 8002,
+    "product_id": 202,
+    "store_id": 302,
+    "stock_quantity": 40,
+    "last_restock_date": "2025-01-09",
+    "modified_date": "2025-01-09T10:00:00"
+  },
+  {
+    "inventory_id": 8003,
+    "product_id": 203,
+    "store_id": 303,
+    "stock_quantity": 60,
+    "last_restock_date": "2025-01-10",
+    "modified_date": "2025-01-10T11:00:00"
+  },
+  {
+    "inventory_id": 8004,
+    "product_id": 204,
+    "store_id": 304,
+    "stock_quantity": 30,
+    "last_restock_date": "2025-01-11",
+    "modified_date": "2025-01-11T12:00:00"
+  },
+  {
+    "inventory_id": 8005,
+    "product_id": 205,
+    "store_id": 305,
+    "stock_quantity": 70,
+    "last_restock_date": "2025-01-12",
+    "modified_date": "2025-01-12T13:00:00"
+  }
+]
