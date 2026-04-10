@@ -1,0 +1,47 @@
+[
+  {
+    "shipment_id": 7001,
+    "order_id": 401,
+    "shipment_status": "DELIVERED",
+    "shipment_date": "2025-01-11",
+    "delivery_date": "2025-01-12",
+    "carrier": "FedEx",
+    "modified_date": "2025-01-12T18:00:00"
+  },
+  {
+    "shipment_id": 7002,
+    "order_id": 402,
+    "shipment_status": "IN_TRANSIT",
+    "shipment_date": "2025-01-13",
+    "delivery_date": null,
+    "carrier": "UPS",
+    "modified_date": "2025-01-13T15:00:00"
+  },
+  {
+    "shipment_id": 7003,
+    "order_id": 403,
+    "shipment_status": "PENDING",
+    "shipment_date": null,
+    "delivery_date": null,
+    "carrier": "Canada Post",
+    "modified_date": "2025-01-15T11:00:00"
+  },
+  {
+    "shipment_id": 7004,
+    "order_id": 404,
+    "shipment_status": "DELIVERED",
+    "shipment_date": "2025-01-19",
+    "delivery_date": "2025-01-20",
+    "carrier": "FedEx",
+    "modified_date": "2025-01-20T12:00:00"
+  },
+  {
+    "shipment_id": 7005,
+    "order_id": 405,
+    "shipment_status": "OUT_FOR_DELIVERY",
+    "shipment_date": "2025-01-21",
+    "delivery_date": null,
+    "carrier": "UPS",
+    "modified_date": "2025-01-21T09:00:00"
+  }
+]
