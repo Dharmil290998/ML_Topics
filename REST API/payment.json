@@ -1,0 +1,47 @@
+[
+  {
+    "payment_id": 9001,
+    "order_id": 401,
+    "payment_method": "Credit Card",
+    "payment_status": "SUCCESS",
+    "amount": 1200,
+    "payment_time": "2025-01-10T10:15:00",
+    "modified_date": "2025-01-10T10:15:00"
+  },
+  {
+    "payment_id": 9002,
+    "order_id": 402,
+    "payment_method": "Debit Card",
+    "payment_status": "SUCCESS",
+    "amount": 1600,
+    "payment_time": "2025-01-12T11:40:00",
+    "modified_date": "2025-01-12T11:40:00"
+  },
+  {
+    "payment_id": 9003,
+    "order_id": 403,
+    "payment_method": "UPI",
+    "payment_status": "FAILED",
+    "amount": 450,
+    "payment_time": "2025-01-15T10:10:00",
+    "modified_date": "2025-01-15T10:10:00"
+  },
+  {
+    "payment_id": 9004,
+    "order_id": 404,
+    "payment_method": "Credit Card",
+    "payment_status": "SUCCESS",
+    "amount": 180,
+    "payment_time": "2025-01-18T14:40:00",
+    "modified_date": "2025-01-18T14:40:00"
+  },
+  {
+    "payment_id": 9005,
+    "order_id": 405,
+    "payment_method": "Cash",
+    "payment_status": "SUCCESS",
+    "amount": 200,
+    "payment_time": "2025-01-20T17:00:00",
+    "modified_date": "2025-01-20T17:00:00"
+  }
+]
