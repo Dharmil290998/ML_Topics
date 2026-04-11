@@ -62,5 +62,32 @@
     "stock_quantity": 55,
     "last_restock_date": "2025-01-23",
     "modified_date": "2025-01-23T11:20:00"
+  },
+  {
+    "inventory_id": 8012,
+    "product_id": 212,
+    "store_id": 309,
+    "stock_quantity": 40,
+    "last_restock_date": "2025-01-29",
+    "warehouse_location": "WH-Toronto-01",
+    "modified_date": "2025-01-29T09:30:00"
+  },
+  {
+    "inventory_id": 8013,
+    "product_id": 213,
+    "store_id": 310,
+    "stock_quantity": 25,
+    "last_restock_date": "2025-01-30",
+    "warehouse_location": "WH-Montreal-02",
+    "modified_date": "2025-01-30T10:40:00"
+  },
+  {
+    "inventory_id": 8014,
+    "product_id": 214,
+    "store_id": 311,
+    "stock_quantity": 30,
+    "last_restock_date": "2025-01-31",
+    "warehouse_location": "WH-Toronto-03",
+    "modified_date": "2025-01-31T11:55:00"
   }
 ]
