@@ -70,5 +70,35 @@
     "amount": 360,
     "payment_time": "2025-01-24T14:35:00",
     "modified_date": "2025-01-24T14:35:00"
+  },
+   {
+    "payment_id": 9012,
+    "order_id": 409,
+    "payment_method": "Credit Card",
+    "payment_status": "SUCCESS",
+    "amount": 600,
+    "transaction_fee": 5.00,
+    "payment_time": "2025-01-29T10:30:00",
+    "modified_date": "2025-01-29T10:30:00"
+  },
+  {
+    "payment_id": 9013,
+    "order_id": 410,
+    "payment_method": "Debit Card",
+    "payment_status": "SUCCESS",
+    "amount": 180,
+    "transaction_fee": 2.50,
+    "payment_time": "2025-01-30T12:40:00",
+    "modified_date": "2025-01-30T12:40:00"
+  },
+  {
+    "payment_id": 9014,
+    "order_id": 411,
+    "payment_method": "UPI",
+    "payment_status": "FAILED",
+    "amount": 440,
+    "transaction_fee": 3.00,
+    "payment_time": "2025-01-31T15:05:00",
+    "modified_date": "2025-01-31T15:05:00"
   }
 ]
