@@ -43,5 +43,32 @@
     "amount": 200,
     "payment_time": "2025-01-20T17:00:00",
     "modified_date": "2025-01-20T17:00:00"
+  },
+  {
+    "payment_id": 9006,
+    "order_id": 406,
+    "payment_method": "Credit Card",
+    "payment_status": "SUCCESS",
+    "amount": 600,
+    "payment_time": "2025-01-22T10:50:00",
+    "modified_date": "2025-01-22T10:50:00"
+  },
+  {
+    "payment_id": 9007,
+    "order_id": 407,
+    "payment_method": "Debit Card",
+    "payment_status": "SUCCESS",
+    "amount": 700,
+    "payment_time": "2025-01-23T12:15:00",
+    "modified_date": "2025-01-23T12:15:00"
+  },
+  {
+    "payment_id": 9008,
+    "order_id": 408,
+    "payment_method": "UPI",
+    "payment_status": "SUCCESS",
+    "amount": 360,
+    "payment_time": "2025-01-24T14:35:00",
+    "modified_date": "2025-01-24T14:35:00"
   }
 ]
