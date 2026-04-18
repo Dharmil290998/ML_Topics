@@ -69,7 +69,6 @@
     "store_id": 309,
     "stock_quantity": 40,
     "last_restock_date": "2025-01-29",
-    "warehouse_location": "WH-Toronto-01",
     "modified_date": "2025-01-29T09:30:00"
   },
   {
@@ -78,7 +77,6 @@
     "store_id": 310,
     "stock_quantity": 25,
     "last_restock_date": "2025-01-30",
-    "warehouse_location": "WH-Montreal-02",
     "modified_date": "2025-01-30T10:40:00"
   },
   {
@@ -87,18 +85,14 @@
     "store_id": 311,
     "stock_quantity": 30,
     "last_restock_date": "2025-01-31",
-    "warehouse_location": "WH-Toronto-03",
     "modified_date": "2025-01-31T11:55:00"
   },
- {
+  {
     "inventory_id": 8015,
     "product_id": 215,
     "store_id": 312,
     "stock_quantity": 20,
     "last_restock_date": "2025-02-01",
-    "warehouse_location": "WH-Toronto-04",
-    "supplier_id": 504,
-    "reorder_level": 10,
     "modified_date": "2025-02-01T09:15:00"
   },
   {
@@ -107,9 +101,6 @@
     "store_id": 313,
     "stock_quantity": 35,
     "last_restock_date": "2025-02-02",
-    "warehouse_location": "WH-Vancouver-01",
-    "supplier_id": 505,
-    "reorder_level": 15,
     "modified_date": "2025-02-02T10:25:00"
   },
   {
@@ -118,19 +109,14 @@
     "store_id": 314,
     "stock_quantity": 60,
     "last_restock_date": "2025-02-03",
-    "warehouse_location": "WH-Calgary-01",
-    "supplier_id": 506,
-    "reorder_level": 25,
     "modified_date": "2025-02-03T11:40:00"
   },
-   {
+  {
     "inventory_id": 8018,
     "product_id": 218,
     "store_id": 315,
     "stock_quantity": 45,
     "last_restock_date": "2025-02-04",
-    "warehouse_location": "WH-Toronto-05",
-    "expiry_date": "2025-06-01",
     "modified_date": "2025-02-04T09:20:00"
   },
   {
@@ -139,8 +125,6 @@
     "store_id": 316,
     "stock_quantity": 55,
     "last_restock_date": "2025-02-05",
-    "warehouse_location": "WH-Vancouver-02",
-    "expiry_date": "2025-06-10",
     "modified_date": "2025-02-05T10:30:00"
   }
 ]
