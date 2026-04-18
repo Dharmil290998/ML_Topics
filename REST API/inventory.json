@@ -70,6 +70,8 @@
     "stock_quantity": 40,
     "last_restock_date": "2025-01-29",
     "warehouse_location": "WH-Toronto-01",
+    "supplier_id": 501,
+    "reorder_level": 20,
     "modified_date": "2025-01-29T09:30:00"
   },
   {
@@ -79,6 +81,8 @@
     "stock_quantity": 25,
     "last_restock_date": "2025-01-30",
     "warehouse_location": "WH-Montreal-02",
+    "supplier_id": 502,
+    "reorder_level": 15,
     "modified_date": "2025-01-30T10:40:00"
   },
   {
@@ -88,6 +92,8 @@
     "stock_quantity": 30,
     "last_restock_date": "2025-01-31",
     "warehouse_location": "WH-Toronto-03",
+    "supplier_id": 503,
+    "reorder_level": 18,
     "modified_date": "2025-01-31T11:55:00"
   }
 ]
