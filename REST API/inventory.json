@@ -90,10 +90,7 @@
     "warehouse_location": "WH-Toronto-03",
     "modified_date": "2025-01-31T11:55:00"
   },
-
-  //  NEW RECORDS (WITH NEW COLUMNS)
-
-  {
+ {
     "inventory_id": 8015,
     "product_id": 215,
     "store_id": 312,
