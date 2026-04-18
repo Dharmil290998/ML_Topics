@@ -70,8 +70,6 @@
     "stock_quantity": 40,
     "last_restock_date": "2025-01-29",
     "warehouse_location": "WH-Toronto-01",
-    "supplier_id": 501,
-    "reorder_level": 20,
     "modified_date": "2025-01-29T09:30:00"
   },
   {
@@ -81,8 +79,6 @@
     "stock_quantity": 25,
     "last_restock_date": "2025-01-30",
     "warehouse_location": "WH-Montreal-02",
-    "supplier_id": 502,
-    "reorder_level": 15,
     "modified_date": "2025-01-30T10:40:00"
   },
   {
@@ -92,8 +88,42 @@
     "stock_quantity": 30,
     "last_restock_date": "2025-01-31",
     "warehouse_location": "WH-Toronto-03",
-    "supplier_id": 503,
-    "reorder_level": 18,
     "modified_date": "2025-01-31T11:55:00"
+  },
+
+  //  NEW RECORDS (WITH NEW COLUMNS)
+
+  {
+    "inventory_id": 8015,
+    "product_id": 215,
+    "store_id": 312,
+    "stock_quantity": 20,
+    "last_restock_date": "2025-02-01",
+    "warehouse_location": "WH-Toronto-04",
+    "supplier_id": 504,
+    "reorder_level": 10,
+    "modified_date": "2025-02-01T09:15:00"
+  },
+  {
+    "inventory_id": 8016,
+    "product_id": 216,
+    "store_id": 313,
+    "stock_quantity": 35,
+    "last_restock_date": "2025-02-02",
+    "warehouse_location": "WH-Vancouver-01",
+    "supplier_id": 505,
+    "reorder_level": 15,
+    "modified_date": "2025-02-02T10:25:00"
+  },
+  {
+    "inventory_id": 8017,
+    "product_id": 217,
+    "store_id": 314,
+    "stock_quantity": 60,
+    "last_restock_date": "2025-02-03",
+    "warehouse_location": "WH-Calgary-01",
+    "supplier_id": 506,
+    "reorder_level": 25,
+    "modified_date": "2025-02-03T11:40:00"
   }
 ]
